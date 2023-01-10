@@ -9,6 +9,6 @@
 
 ### Lecture Notes
 
-| Date | Notebook | Topics | [*Mathematical Python*](http://www.math.ubc.ca/~pwalls/math-python) |
+| Date | Notebook | Topics | [*Mathematical Python*](https://patrickwalls.github.io/mathematicalpython) |
 | :---: | :---: | :---: | :---: |
 | January 09 | [notes_2023_01_09.ipynb](notes_2023_01_09.ipynb) | Jupyter, markdown and LaTeX | [Jupyter](https://patrickwalls.github.io/mathematicalpython/jupyter/notebook/) |
