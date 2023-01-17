@@ -11,4 +11,7 @@
 
 | Date | Notebook | Topics | [*Mathematical Python*](https://patrickwalls.github.io/mathematicalpython) |
 | :---: | :---: | :---: | :---: |
-| January 09 | [notes_2023_01_09.ipynb](notes_2023_01_09.ipynb) | Jupyter, markdown and LaTeX | [Jupyter](https://patrickwalls.github.io/mathematicalpython/jupyter/notebook/) |
+| January 9 | [notes_2023_01_09.ipynb](notes_2023_01_09.ipynb) | Jupyter, markdown and LaTeX | [Jupyter](https://patrickwalls.github.io/mathematicalpython/jupyter/notebook/) |
+| January 11 | [notes_2023_01_11.ipynb](notes_2023_01_11.ipynb) | Markdown examples | [Markdown](https://patrickwalls.github.io/mathematicalpython/jupyter/markdown/) |
+| January 13 | [notes_2023_01_13.ipynb](notes_2023_01_13.ipynb) | LaTeX examples and numbers | [LaTeX](https://patrickwalls.github.io/mathematicalpython/jupyter/latex/) |
+| January 16 | [notes_2023_01_16.ipynb](notes_2023_01_16.ipynb) | Numbers, variables and sequences | [Numbers](https://patrickwalls.github.io/mathematicalpython/python/numbers/) and [Variables](https://patrickwalls.github.io/mathematicalpython/python/variables/) |
