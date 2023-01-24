@@ -16,4 +16,5 @@
 | January 13 | [notes_2023_01_13.ipynb](notes_2023_01_13.ipynb) | LaTeX examples and numbers | [LaTeX](https://patrickwalls.github.io/mathematicalpython/jupyter/latex/) |
 | January 16 | [notes_2023_01_16.ipynb](notes_2023_01_16.ipynb) | Numbers, variables and sequences | [Numbers](https://patrickwalls.github.io/mathematicalpython/python/numbers/) and [Variables](https://patrickwalls.github.io/mathematicalpython/python/variables/) |
 | January 18 | [notes_2023_01_18.ipynb](notes_2023_01_18.ipynb) | List comprehensions | [Sequences](https://patrickwalls.github.io/mathematicalpython/python/sequences/) |
-| January 20 | [notes_2023_01_20.ipynb](notes_2023_01_20.ipynb) | Sequences and Builtin Functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
+| January 20 | [notes_2023_01_20.ipynb](notes_2023_01_20.ipynb) | Sequences and builtin functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
+| January 23 | [notes_2023_01_23.ipynb](notes_2023_01_23.ipynb) | Defining functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
