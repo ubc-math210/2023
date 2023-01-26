@@ -18,3 +18,4 @@
 | January 18 | [notes_2023_01_18.ipynb](notes_2023_01_18.ipynb) | List comprehensions | [Sequences](https://patrickwalls.github.io/mathematicalpython/python/sequences/) |
 | January 20 | [notes_2023_01_20.ipynb](notes_2023_01_20.ipynb) | Sequences and builtin functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
 | January 23 | [notes_2023_01_23.ipynb](notes_2023_01_23.ipynb) | Defining functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
+| January 25 | [notes_2023_01_25.ipynb](notes_2023_01_25.ipynb) | `if` statements | [Logic](https://patrickwalls.github.io/mathematicalpython/python/logic/) |
