@@ -20,3 +20,4 @@
 | January 23 | [notes_2023_01_23.ipynb](notes_2023_01_23.ipynb) | Defining functions | [Functions](https://patrickwalls.github.io/mathematicalpython/python/functions/) |
 | January 25 | [notes_2023_01_25.ipynb](notes_2023_01_25.ipynb) | `if` statements | [Logic](https://patrickwalls.github.io/mathematicalpython/python/logic/) |
 | January 27 | [notes_2023_01_27.ipynb](notes_2023_01_27.ipynb) | `for` loops | [Loops](https://patrickwalls.github.io/mathematicalpython/python/loops/) |
+| January 30 | [notes_2023_01_30.ipynb](notes_2023_01_30.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
