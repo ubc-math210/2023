@@ -21,3 +21,5 @@
 | January 25 | [notes_2023_01_25.ipynb](notes_2023_01_25.ipynb) | `if` statements | [Logic](https://patrickwalls.github.io/mathematicalpython/python/logic/) |
 | January 27 | [notes_2023_01_27.ipynb](notes_2023_01_27.ipynb) | `for` loops | [Loops](https://patrickwalls.github.io/mathematicalpython/python/loops/) |
 | January 30 | [notes_2023_01_30.ipynb](notes_2023_01_30.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
+| February 1 | [notes_2023_02_01.ipynb](notes_2023_02_01.ipynb) | Fixed Point Iteration | [Fixed Point Iteration](https://en.wikipedia.org/wiki/Fixed-point_iteration) |
+| February 3 | [notes_2023_02_03.ipynb](notes_2023_02_03.ipynb) | Fixed Point Iteration | [Fixed Point Iteration](https://en.wikipedia.org/wiki/Fixed-point_iteration) |
