@@ -23,3 +23,4 @@
 | January 30 | [notes_2023_01_30.ipynb](notes_2023_01_30.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
 | February 1 | [notes_2023_02_01.ipynb](notes_2023_02_01.ipynb) | Fixed Point Iteration | [Fixed Point Iteration](https://en.wikipedia.org/wiki/Fixed-point_iteration) |
 | February 3 | [notes_2023_02_03.ipynb](notes_2023_02_03.ipynb) | Fixed Point Iteration | [Fixed Point Iteration](https://en.wikipedia.org/wiki/Fixed-point_iteration) |
+| February 6 | [notes_2023_02_06.ipynb](notes_2023_02_06.ipynb) | Bisection Method | [Bisection Method](https://patrickwalls.github.io/mathematicalpython/root-finding/bisection/) |
