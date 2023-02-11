@@ -25,3 +25,4 @@
 | February 3 | [notes_2023_02_03.ipynb](notes_2023_02_03.ipynb) | Fixed Point Iteration | [Fixed Point Iteration](https://en.wikipedia.org/wiki/Fixed-point_iteration) |
 | February 6 | [notes_2023_02_06.ipynb](notes_2023_02_06.ipynb) | Bisection Method | [Bisection Method](https://patrickwalls.github.io/mathematicalpython/root-finding/bisection/) |
 | February 8 | [notes_2023_02_08.ipynb](notes_2023_02_08.ipynb) | Newton's Method | [Newton's Method](https://patrickwalls.github.io/mathematicalpython/root-finding/newton/) |
+| February 10 | [notes_2023_02_10.ipynb](notes_2023_02_10.ipynb) | Secant Method | [Secant Method](https://patrickwalls.github.io/mathematicalpython/root-finding/secant/) |
