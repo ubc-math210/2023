@@ -29,3 +29,4 @@
 | February 13 | [notes_2023_02_13.ipynb](notes_2023_02_13.ipynb) | NumPy and Matplotlib | [NumPy](https://patrickwalls.github.io/mathematicalpython/scipy/numpy/) and [Matplotlib](https://patrickwalls.github.io/mathematicalpython/scipy/matplotlib/) |
 | February 17 | [notes_2023_02_17.ipynb](notes_2023_02_17.ipynb) | More NumPy and Matplotlib | [NumPy](https://patrickwalls.github.io/mathematicalpython/scipy/numpy/) and [Matplotlib](https://patrickwalls.github.io/mathematicalpython/scipy/matplotlib/) |
 | February 27 | [notes_2023_02_27.ipynb](notes_2023_02_27.ipynb) | Riemann sums | [Riemann sums](https://patrickwalls.github.io/mathematicalpython/integration/riemann-sums/) |
+| March 1 | [notes_2023_03_01.ipynb](notes_2023_03_01.ipynb) | Error formula for Riemann sums | [Riemann sums](https://patrickwalls.github.io/mathematicalpython/integration/riemann-sums/) |
