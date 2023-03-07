@@ -31,3 +31,4 @@
 | February 27 | [notes_2023_02_27.ipynb](notes_2023_02_27.ipynb) | Riemann sums | [Riemann sums](https://patrickwalls.github.io/mathematicalpython/integration/riemann-sums/) |
 | March 1 | [notes_2023_03_01.ipynb](notes_2023_03_01.ipynb) | Error formula for Riemann sums | [Riemann sums](https://patrickwalls.github.io/mathematicalpython/integration/riemann-sums/) |
 | March 3 | [notes_2023_03_03.ipynb](notes_2023_03_03.ipynb) | Trapezoid rule | [Trapezoid rule](https://patrickwalls.github.io/mathematicalpython/integration/trapezoid-rule/) |
+| March 6 | [notes_2023_03_06.ipynb](notes_2023_03_06.ipynb) | Trapezoid rule and numerical differentiation | [Trapezoid rule](https://patrickwalls.github.io/mathematicalpython/integration/trapezoid-rule/) and [Numerical Differentiation](https://patrickwalls.github.io/mathematicalpython/differentiation/differentiation/) |
