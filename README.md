@@ -36,3 +36,4 @@
 | March 10 | [notes_2023_03_10.ipynb](notes_2023_03_10.ipynb) | More numerical differentiation and integration | [Simpson's rule](https://patrickwalls.github.io/mathematicalpython/integration/simpsons-rule/) and [Numerical Differentiation](https://patrickwalls.github.io/mathematicalpython/differentiation/differentiation/) |
 | March 13 | [notes_2023_03_13.ipynb](notes_2023_03_13.ipynb) | Euler's method | [First Order Equations](https://patrickwalls.github.io/mathematicalpython/differential-equations/first-order/) |
 | March 15 | [notes_2023_03_15.ipynb](notes_2023_03_15.ipynb) | Slope Fields | [First Order Equations](https://patrickwalls.github.io/mathematicalpython/differential-equations/first-order/) |
+| March 17 | [notes_2023_03_17.ipynb](notes_2023_03_17.ipynb) | Heun's Method and Order of Accuracy | [Numerical Methods](https://patrickwalls.github.io/mathematicalpython/differential-equations/numerical-methods/) |
