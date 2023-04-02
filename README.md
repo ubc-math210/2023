@@ -40,3 +40,4 @@
 | March 22 | [notes_2023_03_22.ipynb](notes_2023_03_22.ipynb) | Order of Accuracy | [Numerical Methods](https://patrickwalls.github.io/mathematicalpython/differential-equations/numerical-methods/) |
 | March 24 | [notes_2023_03_24.ipynb](notes_2023_03_24.ipynb) | Systems of ODEs | [Systems of ODEs](https://patrickwalls.github.io/mathematicalpython/differential-equations/systems/) |
 | March 27 | [notes_2023_03_27.ipynb](notes_2023_03_27.ipynb) | Euler's Method for Systems | [Systems of ODEs](https://patrickwalls.github.io/mathematicalpython/differential-equations/systems/) |
+| March 31 | [notes_2023_03_31.ipynb](notes_2023_03_31.ipynb) | `odieint` for Systems | [Systems of ODEs](https://patrickwalls.github.io/mathematicalpython/differential-equations/systems/) |
